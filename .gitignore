@@ -7,6 +7,7 @@ sim[0-9]
 build-setup-log
 tags
 build
+build_dir
 scala-doc-env.sh
 *.swp
 /.conda-env
